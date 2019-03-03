@@ -2,7 +2,6 @@ package com.rummi.luukvanagtmaal.grannykub
 
 import android.content.Context
 import android.graphics.Color.rgb
-import android.graphics.Rect
 import android.util.AttributeSet
 import android.util.Log
 import android.view.DragEvent
@@ -10,11 +9,7 @@ import android.view.Gravity
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TableLayout
-import android.widget.TableRow
 import android.widget.TextView
-import kotlinx.android.synthetic.main.activity_play.view.*
-import java.sql.RowId
-import kotlin.math.ceil
 
 val BLUE: Int = rgb(0, 0, 255)
 val RED: Int = rgb(255, 0, 0)

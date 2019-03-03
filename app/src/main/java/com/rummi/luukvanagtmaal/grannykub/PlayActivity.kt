@@ -3,14 +3,11 @@ package com.rummi.luukvanagtmaal.grannykub
 import android.content.ClipData
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.support.constraint.ConstraintLayout
 import android.util.Log
 import android.view.*
 import android.widget.*
 import kotlinx.android.synthetic.main.activity_play.*
-import kotlinx.android.synthetic.main.activity_play.view.*
 import kotlin.math.ceil
-import kotlin.math.roundToInt
 
 
 class PlayActivity : AppCompatActivity(), View.OnClickListener, View.OnTouchListener, View.OnDragListener {
