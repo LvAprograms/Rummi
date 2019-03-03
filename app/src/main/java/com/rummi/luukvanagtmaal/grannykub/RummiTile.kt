@@ -97,6 +97,25 @@ class Tile: TextView {
             false
         }
     }
+
+    fun resetBG() {
+        Log.d(this.toString(), "resetting background colour")
+        when (this.getProp("colour")) {
+            BLACK -> {
+                this.setBackgroundResource(R.drawable.black_edge)
+            }
+            RED -> {
+                this.setBackgroundResource(R.drawable.red_edge)
+            }
+            BLUE -> {
+                this.setBackgroundResource(R.drawable.blue_edge)
+            }
+            YELLOW -> {
+                this.setBackgroundResource(R.drawable.yellow_edge)
+            }
+        }
+        this.invalidate()
+    }
 }
 
 //setTextColor(colour)
