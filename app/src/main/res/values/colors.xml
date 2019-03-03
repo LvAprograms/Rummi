@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bluebck">#2882D1</color>
+    <color name="blueEdge">#004780</color>
+    <color name="white">#ffffff</color>
+    <color name="redEdge">#E70000</color>
+    <color name="yellowEdge">#FFEB3B</color>
+    <color name="blackEdge">#000000</color>
+    <color name="greybrwn">#412828</color>
+    <color name="plankClr">#744310</color>
+    <color name="highlight">#76FF0F</color>
+</resources>

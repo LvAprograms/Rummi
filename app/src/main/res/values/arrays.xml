@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="edgeShapes">
+        <item>@drawable/black_edge</item>
+        <item>@drawable/red_edge</item>
+        <item>@drawable/yellow_edge</item>
+        <item>@drawable/blue_edge</item>
+    </integer-array>
+</resources>

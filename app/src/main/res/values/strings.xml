@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Grannykub</string>
+    <string name="playBtn">Play!</string>
+    <string name="settingsBtn">Settings</string>
+
+    // settings screen
+    <string name="backgroundClr">Background Colour</string>
+    <string name="sound">Sound</string>
+    <string name="aiPlayers">Number of opponents</string>
+
+    <string-array name="AIchoices">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="colour_choices">
+        <item>GreyBrown</item>
+        <item>Blue</item>
+        <item>White</item>
+    </string-array>
+
+    //Play screen texts
+    <string name="sortBtnTxt">Sort</string>
+    <string name="nextBtnTxt">Done</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+
+    <string-array name="hideBtnTxt">
+        <item>@string/hide</item>
+        <item>@string/show</item>
+    </string-array>
+
+</resources>
